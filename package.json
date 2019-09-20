@@ -1,0 +1,13 @@
+{
+  "name": "bulletScreen",
+  "version": "1.0.0",
+  "description": "bulletScreen based on canvas",
+  "main": "./index.js",
+  "keywords": [
+    "canvas",
+    "bulletScreen",
+    "bullet" 
+  ],
+  "author": "alpaca",
+  "license": "MIT"
+}
