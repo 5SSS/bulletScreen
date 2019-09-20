@@ -11,13 +11,13 @@ bulletScreen based on canvas
 ## Install
 
 ```js
-npm install bulletScreen
+npm install bullet-screen
 ```
 
 or
 
 ```js
-<script src="https://cdn.jsdelivr.net/npm/bulletScreen@latest/dist/bulletScreen.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bullet-screen@latest/dist/bulletScreen.js"></script>
 ```
 
 ## Usage
@@ -28,9 +28,9 @@ or
 ```
 
 ```js
-import Board from 'bulletScreen'
+import BulletScreen from 'bullet-screen'
 
-const bullet = new bulletScreen({id: "app"})
+const bullet = new BulletScreen({id: "app"})
 // send
 bullet.push('test')
 bullet.push('test', 'color')

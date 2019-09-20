@@ -1,5 +1,5 @@
 {
-  "name": "bulletScreen",
+  "name": "bullet-screen",
   "version": "1.0.0",
   "description": "bulletScreen based on canvas",
   "main": "./index.js",
